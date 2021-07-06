@@ -1,15 +1,12 @@
 # shoppingCart
 
 PRICE LIST
-Apples  1.00 per bag
-Bread 80p per loaf
-Milk  1.30 per 500ml
-Soup 65p per tin
+Apples: 1.00 per bag - Bread: 80p per loaf - Milk:  1.30 per 500ml - Soup: 65p per tin
 
 Discount Rules:
-For this week only Apples are at 10% off per bag purchased,
-For every two tins of soup that are purchased a bread can also be purchased at 50% off
-You also optionally provide a valid Discount token to redeem 50p off the total bill
+1.For this week only Apples are at 10% off per bag purchased - 
+2.For every two tins of soup that are purchased a bread can also be purchased at 50% off - 
+3.You also optionally provide a valid Discount token to redeem 50p off the total bill - 
  
 # Getting Started with Create React App
 
