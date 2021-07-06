@@ -1,4 +1,15 @@
 # shoppingCart
+
+PRICE LIST
+Apples  1.00 per bag
+Bread 80p per loaf
+Milk  1.30 per 500ml
+Soup 65p per tin
+
+Discount Rules:
+For this week only Apples are at 10% off per bag purchased,
+For every two tins of soup that are purchased a bread can also be purchased at 50% off
+You also optionally provide a valid Discount token to redeem 50p off the total bill
  
 # Getting Started with Create React App
 
@@ -17,11 +28,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
